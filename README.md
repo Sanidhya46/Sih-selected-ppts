@@ -20,3 +20,11 @@ list of all selected ppts .. of all years
 
 5). sih 2024                 --           wait list          --         https://raw.githubusercontent.com/Sanidhya46/Sih-selected-ppts/main/Sih%20.ppt%20for%20submission%20_20240915_231846_0000%20(1).pdf
 
+
+6). sih 2023             -- selected           https://www.linkedin.com/posts/tiluckdave_our-sih-2023-winning-ppt-activity-7232795038345289728-Euii?utm_source=share&utm_medium=member_android&rcm=ACoAADo4cSoBMkG0hCflBTDXmCVzgT2zkerD9-k
+
+
+7). sih 2024             -- selected           https://www.linkedin.com/posts/priyansh-arora-703908253_ppt-activity-7274819439731048449-CVJM?utm_source=share&utm_medium=member_android&rcm=ACoAADo4cSoBMkG0hCflBTDXmCVzgT2zkerD9-k
+
+
+8). sih 2024             -- selected           https://www.linkedin.com/posts/ashit-rai-999923249_roadmap-to-winning-smart-india-hackathon-activity-7366794563975376896-Boi4?utm_source=share&utm_medium=member_android&rcm=ACoAADo4cSoBMkG0hCflBTDXmCVzgT2zkerD9-k
