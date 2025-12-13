@@ -28,3 +28,6 @@ list of all selected ppts .. of all years
 
 
 8). sih 2024             -- selected           https://www.linkedin.com/posts/ashit-rai-999923249_roadmap-to-winning-smart-india-hackathon-activity-7366794563975376896-Boi4?utm_source=share&utm_medium=member_android&rcm=ACoAADo4cSoBMkG0hCflBTDXmCVzgT2zkerD9-k
+
+
+9). sih 2025             -- selected           
