@@ -39,3 +39,7 @@ list of all selected ppts .. of all years
 11). sih 2025            -- waitlist           https://github.com/Sanidhya46/Sih-selected-ppts/raw/main/Krishi%20Dhan%20Kavach.pdf
 
 
+
+*** ppts repository which is not selected but can give strong foundation and ideas to make ppts in right direction ***
+
+1).  https://github.com/Programmers-Paradise/sih-internal-25/
