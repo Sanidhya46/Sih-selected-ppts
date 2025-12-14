@@ -33,7 +33,7 @@ list of all selected ppts .. of all years
 9). sih 2025             -- selected           https://github.com/Sanidhya46/Sih-selected-ppts/raw/main/Sourya.pdf
 
 
-10). Sih 2025            -- selected         
+10). Sih 2025            -- selected           https://github.com/Sanidhya46/Sih-selected-ppts/raw/main/Trinetra_SIH2025_selected.pdf 
 
 
 11). sih 2025            -- waitlist           https://github.com/Sanidhya46/Sih-selected-ppts/raw/main/Digi%20Sanchalan.pdf
