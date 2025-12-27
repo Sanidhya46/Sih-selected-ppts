@@ -5,7 +5,7 @@ list of all selected ppts .. of all years
 
 ***      general idea for ppt template          --       https://raw.githubusercontent.com/Sanidhya46/Sih-selected-ppts/main/SIH2025-IDEA-Presentation-Format%20(2).pptx.pdf
 
-
+     
 1). sih 2022             -- selected           https://drive.google.com/file/d/1W3njXHti3Y_EawzdgBfZKvciwmjZU2lb/view
 
 
